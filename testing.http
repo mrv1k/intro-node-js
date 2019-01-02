@@ -1,0 +1,7 @@
+### Fired with `REST Client` vscode extension (https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
+GET http://localhost:3001 HTTP/1.1
+
+###
+
+DELETE http://localhost:3001/user/1 HTTP/1.1
